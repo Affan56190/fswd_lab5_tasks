@@ -1,0 +1,16 @@
+{
+  "name": "campusflow-lab5",
+  "version": "1.0.0",
+  "description": "Lab 5 - Advanced JavaScript (CampusFlow core logic in Node.js)",
+  "type": "module",
+  "scripts": {
+    "task1": "node task1/task1.js",
+    "task2": "node task2/task2.js",
+    "task3": "node task3/task3.js",
+    "task4": "node task4/task4.js",
+    "task5": "node task5/main.js",
+    "task6": "node task6/task6.js",
+    "task7": "node task7/task7.js",
+    "task8": "node task8/task8.js"
+  }
+}
